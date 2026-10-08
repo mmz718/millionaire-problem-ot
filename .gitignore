@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+*.pdf
+*.tex
+*.bib
+*.zip
+overleaf/
+build_report.py
+latex_checks.json
+results/review.md

@@ -1,0 +1,22 @@
+[
+  {
+    "expected": "Alice 更富有",
+    "success": true
+  },
+  {
+    "expected": "Bob 更富有",
+    "success": true
+  },
+  {
+    "expected": "双方财富相等",
+    "success": true
+  },
+  {
+    "expected": "OT public metrics",
+    "success": true
+  },
+  {
+    "expected": "reject out-of-domain input",
+    "success": true
+  }
+]

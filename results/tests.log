@@ -1,0 +1,24 @@
+test_bytes_are_actual_serialization (test_protocols.ProtocolTests.test_bytes_are_actual_serialization) ... ok
+test_circular_spacing (test_protocols.ProtocolTests.test_circular_spacing) ... ok
+test_complete_comparison_message_counts (test_protocols.ProtocolTests.test_complete_comparison_message_counts) ... ok
+test_domain_mismatch (test_protocols.ProtocolTests.test_domain_mismatch) ... ok
+test_exhaustive_domain5 (test_protocols.ProtocolTests.test_exhaustive_domain5) ... ok
+test_impossible_bits (test_protocols.ProtocolTests.test_impossible_bits) ... ok
+test_invalid_messages (test_protocols.ProtocolTests.test_invalid_messages) ... ok
+test_invalid_ot_choice (test_protocols.ProtocolTests.test_invalid_ot_choice) ... ok
+test_invalid_wealth (test_protocols.ProtocolTests.test_invalid_wealth) ... ok
+test_mask_domain_separation (test_protocols.ProtocolTests.test_mask_domain_separation) ... ok
+test_modular_request_wrap_and_response_wrap (test_protocols.ProtocolTests.test_modular_request_wrap_and_response_wrap) ... ok
+test_ot_arbitrary_messages_all_choices (test_protocols.ProtocolTests.test_ot_arbitrary_messages_all_choices) ... ok
+test_receiver_session_cannot_repeat (test_protocols.ProtocolTests.test_receiver_session_cannot_repeat) ... ok
+test_repeated_inputs (test_protocols.ProtocolTests.test_repeated_inputs) ... ok
+test_retry_exhaustion (test_protocols.ProtocolTests.test_retry_exhaustion) ... ok
+test_sender_session_cannot_repeat (test_protocols.ProtocolTests.test_sender_session_cannot_repeat) ... ok
+test_session_binding (test_protocols.ProtocolTests.test_session_binding) ... ok
+test_singleton_domain (test_protocols.ProtocolTests.test_singleton_domain) ... ok
+test_spacing_retry (test_protocols.ProtocolTests.test_spacing_retry) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 15.788s
+
+OK

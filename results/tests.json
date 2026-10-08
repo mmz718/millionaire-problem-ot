@@ -1,0 +1,10 @@
+{
+  "test_methods": 19,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "successful": true,
+  "exhaustive_input_pairs": 25,
+  "exhaustive_protocol_runs": 50,
+  "note": "Subtests are included in their test method, not counted as independent methods. Security is not established by correctness tests."
+}
